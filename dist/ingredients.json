@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken Salad",
+      "short_description": "A healthy and delicious grilled chicken salad with fresh vegetables.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "recipe_image": "../src/assets/Images/chicken-salad.jpg"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "A quick and easy vegetable stir-fry with tofu and soy sauce.",
+      "ingredients": ["300 g tofu", "200 g broccoli", "150 g carrots", "100 g bell peppers"],
+      "preparing_time": "25 min",
+      "calories": "250 calories",
+      "recipe_image": "../src/assets/Images/Vegetable Stir.jpg"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta dish with creamy sauce, bacon, and parmesan cheese.",
+      "ingredients": ["400 g spaghetti", "200 g bacon", "4 eggs", "100 g parmesan cheese"],
+      "preparing_time": "40 min",
+      "calories": "480 calories",
+      "recipe_image": "../src/assets/Images/spaghetti.jpg"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Mango Smoothie Bowl",
+      "short_description": "Refreshing mango smoothie bowl topped with fresh fruits and granola.",
+      "ingredients": ["2 ripe mangoes", "150 ml coconut milk", "100 g granola", "Assorted fruits for topping"],
+      "preparing_time": "10 min",
+      "calories": "200 calories",
+      "recipe_image": "../src/assets/Images/fresh-mango-smoothie.jpg"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Grilled Salmon with Asparagus",
+      "short_description": "Grilled salmon fillets served with roasted asparagus and lemon butter sauce.",
+      "ingredients": ["4 salmon fillets", "400 g asparagus", "2 lemons", "50 g butter"],
+      "preparing_time": "35 min",
+      "calories": "350 calories",
+      "recipe_image": "../src/assets/Images/grilled-salmon.jpg"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Quinoa Salad",
+      "short_description": "Healthy and nutritious quinoa salad with mixed vegetables and balsamic dressing.",
+      "ingredients": ["200 g quinoa", "150 g cherry tomatoes", "100 g cucumber", "50 g feta cheese"],
+      "preparing_time": "20 min",
+      "calories": "280 calories",
+      "recipe_image": "../src/assets/Images/Quinoa Salad.jpg"
+    }
+  ]
+  
